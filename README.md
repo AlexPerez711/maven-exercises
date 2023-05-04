@@ -1,2 +1,1 @@
 # maven-exercises
-# maven-exercises
